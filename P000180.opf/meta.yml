@@ -1,0 +1,39 @@
+ebook_metadata:
+  title: ༄༅། །དབུ་མ་རྩ་བ་ཤེས་རབ་ཀྱི་རྣམ་པར་བཤད་པ་ཡང་དག་ལྟ་བའི་འོད་ཟེར་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། གོ་རམས་པ་བསོད་ནམས་སེང་གེ།
+  sku: IBA-GR-04-1
+  layers:
+  - book_title
+  - author
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: Light Rays of the Right View:A Commentary on Madhyamakakarikas
+    bo: དབུ་མ་རྩ་བའི་ཤེས་རབ་ཀྱི་རྣམ་པར་བཤད་པ་ཡང་དག་པའི་ལྟ་བའི་འོད་ཟེར།
+  collection:
+    en: IBA Gorampa Series–  Book 4
+    bo: གོ་རམས་པ་བསོད་ནམས་སེང་གེ་རྩོམ་བྲིས།–  དེབ། ༤
+  author:
+    en: Gorampa Sonam Senge
+    bo: གོ་རམས་པ་བསོད་ནམས་སེང་གེ
+  pusblisher:
+    en: IBA Publications
+    bo: རྒྱལ་ཡོངས་གསུང་རབ་སློབ་གཉེར་ཁང་།
+  sku: IBA-GR-04-1
+  category:
+    en: Madhyamika
+    bo: དབུ་མ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: IBA-GR-04-1.epub
+  description:
+    en: The commentary to the Nagarjuna’s root text of Mulamadhamika which is the
+      core of all middle way views.
+    bo: མགོན་པོ་ཀླུ་སྒྲུབ་ཀྱིས་མཛད་པའི་ལུས་ལྟ་བུ་བསྟན་བཅོས་དབུ་མ་རྩ་བ་ཤེས་རབ་ཀྱི་རྣམ་བཤད་བཞུགས་སོ།
