@@ -1,15 +1,17 @@
-ebook_metadata:
+id: P000180
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །དབུ་མ་རྩ་བ་ཤེས་རབ་ཀྱི་རྣམ་པར་བཤད་པ་ཡང་དག་ལྟ་བའི་འོད་ཟེར་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། གོ་རམས་པ་བསོད་ནམས་སེང་གེ།
-  sku: IBA-GR-04-1
   layers:
   - book_title
   - author
   - tsawa
   - quotation
   - sabche
+  id: IBA-GR-04-1
 web_metadata:
   title:
     en: Light Rays of the Right View:A Commentary on Madhyamakakarikas
